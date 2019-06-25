@@ -1,0 +1,10 @@
+[+] Executing current directory...
+/root/portfolio/BlueRecon/Test-1
+
+-------------------------------------------------------
+[+] Executing list files...
+execute_commands.py
+open_websites.py
+save_results.py
+
+-------------------------------------------------------
