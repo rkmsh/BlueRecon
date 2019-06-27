@@ -1,0 +1,2 @@
+http://www.ewhois.co/[domain]
+https://tools.dnsstuff.com/#whois|type=domain&&value=[domain]
