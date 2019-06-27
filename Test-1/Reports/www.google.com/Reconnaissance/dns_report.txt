@@ -1,0 +1,47 @@
+[+] Executing dnsrecon - DNS Records...
+[*] Performing General Enumeration of Domain:www.google.com
+[-] DNSSEC is not configured for www.google.com
+[*] 	 SOA ns1.google.com 216.239.32.10
+[-] Could not Resolve NS Records for www.google.com
+[-] Could not Resolve MX Records for www.google.com
+[*] 	 A www.google.com 172.217.167.4
+[*] 	 AAAA www.google.com 2404:6800:4002:808::2004
+[*] Enumerating SRV Records
+[-] No SRV Records Found for www.google.com
+[+] 0 Records Found
+
+-----------------------------------------------------------------------
+[+] Executing dnsrecon - DNS Transfer...
+[*] Testing NS Servers for Zone Transfer
+[*] Checking for Zone Transfer for www.google.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA ns1.google.com 216.239.32.10
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 216.239.32.10
+[+] 216.239.32.10 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] No answer or RRset not for qname
+
+-----------------------------------------------------------------------
+[+] Executing fierce...
+
+Trying zone transfer first...
+
+Unsuccessful in zone transfer (it was worth a shot)
+Okay, trying the good old fashioned way... brute force
+
+Checking for wildcard DNS...
+Nope. Good.
+Now performing 2280 test(s)...
+
+Subnets found (may want to probe here using nmap or unicornscan):
+
+Done with Fierce scan: http://ha.ckers.org/fierce/
+Found 0 entries.
+
+Have a nice day.
+
+-----------------------------------------------------------------------
