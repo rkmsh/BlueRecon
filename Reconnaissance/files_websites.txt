@@ -1,0 +1,4 @@
+https://www.google.com/search?source=hp&ei=jjsWXb_xGsnevATL9rTIBg&q=filetype%3Atxt+site%3A[domain]&oq=filetype%3Atxt+site%3A[domain]&gs_l=psy-ab.3...1960.29560..29996...0.0..0.2004.12536.0j6j1j1j0j3j4j0j2j1......0....1..gws-wiz.....0.vWYwPIRs
+https://www.google.com/search?source=hp&ei=jjsWXb_xGsnevATL9rTIBg&q=filetype%3Adoc+site%3A[domain]&oq=filetype%3Adoc+site%3A[domain]&gs_l=psy-ab.3...1960.29560..29996...0.0..0.2004.12536.0j6j1j1j0j3j4j0j2j1......0....1..gws-wiz.....0.vWYwPIRs
+https://www.google.com/search?source=hp&ei=jjsWXb_xGsnevATL9rTIBg&q=filetype%3Apdf+site%3A[domain]&oq=filetype%3Apdf+site%3A[domain]&gs_l=psy-ab.3...1960.29560..29996...0.0..0.2004.12536.0j6j1j1j0j3j4j0j2j1......0....1..gws-wiz.....0.vWYwPIRs
+https://www.google.com/search?source=hp&ei=jjsWXb_xGsnevATL9rTIBg&q=filetype%3Appt+site%3A[domain]&oq=filetype%3Appt+site%3A[domain]&gs_l=psy-ab.3...1960.29560..29996...0.0..0.2004.12536.0j6j1j1j0j3j4j0j2j1......0....1..gws-wiz.....0.vWYwPIRs

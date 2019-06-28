@@ -1,0 +1,3 @@
+theharvester - googleplus:theharvester -d [domain] -b googleplus
+theharvester - linkedin:theharvester -d [domain] -b linkedin
+theharvester - twitter:theharvester -d [domain] -b twitter

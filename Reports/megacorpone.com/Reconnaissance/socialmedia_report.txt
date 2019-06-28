@@ -1,0 +1,118 @@
+[+] Executing theharvester - googleplus...
+
+Warning: Pycurl is not compiled against Openssl. Wfuzz might not work correctly when fuzzing SSL sites. Check Wfuzz's documentation for more information.
+
+
+ [92m *******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7.2                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************[94m
+
+
+[-] Starting harvesting process for domain: megacorpone.com
+
+[-] Searching in Google+ ..
+	Searching 100 results..
+	Searching 200 results..
+	Searching 300 results..
+	Searching 400 results..
+	Searching 500 results..
+Users from Google+:
+====================
+
+-----------------------------------------------------------------------
+[+] Executing theharvester - linkedin...
+
+Warning: Pycurl is not compiled against Openssl. Wfuzz might not work correctly when fuzzing SSL sites. Check Wfuzz's documentation for more information.
+
+
+ [92m *******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7.2                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************[94m
+
+
+[-] Starting harvesting process for domain: megacorpone.com
+
+[-] Searching in Linkedin..
+	Searching 100 results..
+	Searching 200 results..
+	Searching 300 results..
+	Searching 400 results..
+	Searching 500 results..
+Users from Linkedin:
+-------------------
+Alan Grofield - IT and Security Director - MegaCorpOne
+Stan Denvers - Collections - MegaCorpOne
+Mike Schneakins - Software Developer - megacorpone
+Handy McKay - Recruiter - MegaCorpOne
+Joe Sheer - CEO - MegaCorp One
+Mike Carlow - VP of Legal Affairs - MegaCorp One
+Fred Ducasse - Investments - MegaCorpOne
+vicuong ha - manager - MegaCorp
+jerome penard - pylone painter - pdc Utility Services Ltd
+Amanda Pollack - Consultant - FTI Consulting
+
+-----------------------------------------------------------------------
+[+] Executing theharvester - twitter...
+
+Warning: Pycurl is not compiled against Openssl. Wfuzz might not work correctly when fuzzing SSL sites. Check Wfuzz's documentation for more information.
+
+
+ [92m *******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7.2                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************[94m
+
+
+[-] Starting harvesting process for domain: megacorpone.com
+
+[-] Searching in Twitter ..
+	Searching 100 results..
+	Searching 200 results..
+	Searching 300 results..
+	Searching 400 results..
+	Searching 500 results..
+Users from Twitter:
+-------------------
+@-moz-keyframes gb__a
+@keyframes gb__a
+@media 
+@-moz-keyframes progressmove
+@keyframes progressmove
+@-webkit-keyframes qs-timer 
+@ZackDeLaMota ejemplo de enumeracion de ...
+@.1561737970439221
+@.
+@
+@broofa.com
+@.1561737980713824
+@.1561737989849722
+@.1561737998118329
+@.1561738007322742
+
+-----------------------------------------------------------------------

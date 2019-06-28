@@ -1,0 +1,7 @@
+theharvester - baidu:theharvester -d [domain] -b baidu
+theharvester - bing:theharvester -d [domain] -b bing
+theharvester - dogpilesearch:theharvester -d [domain] -b dogpilesearch
+theharvester - google:theharvester -d [domain] -b google
+theharvester - pgp:theharvester -d [domain] -b pgp
+theharvester - yahoo:theharvester -d [domain] -b yahoo
+dmitry - netcraft:dmitry -n [domain]

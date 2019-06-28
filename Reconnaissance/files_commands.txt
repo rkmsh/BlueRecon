@@ -1,0 +1,7 @@
+goofile - doc:goofile -d [domain] -f doc
+goofile - pdf:goofile -d [domain] -f pdf
+goofile - ppt:goofile -d [domain] -f ppt
+goofile - pptx:goofile -d [domain] -f pptx
+goofile - txt:goofile -d [domain] -f txt
+goofile - xls:goofile -d [domain] -f xls
+goofile - xlsx:goofile -d [domain] -f xlsx

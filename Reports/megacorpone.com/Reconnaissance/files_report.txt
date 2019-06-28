@@ -1,0 +1,149 @@
+[+] Executing goofile - doc...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for doc
+========================================
+
+Files found:
+====================
+
+b.doc
+document.doc
+d.doc
+====================
+
+
+-----------------------------------------------------------------------
+[+] Executing goofile - pdf...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for pdf
+========================================
+
+Files found:
+====================
+
+No results were found
+====================
+
+
+-----------------------------------------------------------------------
+[+] Executing goofile - ppt...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for ppt
+========================================
+
+Files found:
+====================
+
+No results were found
+====================
+
+
+-----------------------------------------------------------------------
+[+] Executing goofile - pptx...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for pptx
+========================================
+
+Files found:
+====================
+
+No results were found
+====================
+
+
+-----------------------------------------------------------------------
+[+] Executing goofile - txt...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for txt
+========================================
+
+Files found:
+====================
+
+No results were found
+====================
+
+
+-----------------------------------------------------------------------
+[+] Executing goofile - xls...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for xls
+========================================
+
+Files found:
+====================
+
+No results were found
+====================
+
+
+-----------------------------------------------------------------------
+[+] Executing goofile - xlsx...
+
+-------------------------------------
+|Goofile v1.5	                    |
+|Coded by Thomas (G13) Richards     |
+|www.g13net.com                     |
+|code.google.com/p/goofile          |
+-------------------------------------
+
+
+Searching in megacorpone.com for xlsx
+========================================
+
+Files found:
+====================
+
+No results were found
+====================
+
+
+-----------------------------------------------------------------------
